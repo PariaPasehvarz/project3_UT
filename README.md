@@ -1,1 +1,1 @@
-This is thee third project implemented for Advance Programming Course, University of Tehran.
+This is the third project implemented for Advance Programming Course, University of Tehran.
